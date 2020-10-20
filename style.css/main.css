@@ -1,0 +1,17 @@
+p{
+    color: yellow;
+}
+h1{
+    color:red;
+}
+body{
+    background-color: purple;
+}
+div{
+    border: 0.5cm outset blue ;
+    cursor: pointer;
+    border-radius:100px;
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
